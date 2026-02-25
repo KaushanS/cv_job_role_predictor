@@ -1,0 +1,6 @@
+- [x] Update index.html with Bootstrap 5 CDN and modern HTML structure
+- [x] Add hero section with title, subtitle, and gradient background
+- [x] Style the upload form with Bootstrap classes and custom CSS
+- [x] Add JavaScript for loading spinner on form submit
+- [x] Enhance results display with cards for predictions, styled chart, and job links
+- [x] Ensure responsive design
